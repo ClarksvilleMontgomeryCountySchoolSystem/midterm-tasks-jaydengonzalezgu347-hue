@@ -1,11 +1,3 @@
-#Given variables
-party_pizza_mini = 14
-large = 8
-medium = 6
-people = 6 # friends
-
-#Do Not use crtl+A to select code.  Only copy the code below this line.
-#------------------------------------------------------------------------------------------------
 slices = large + medium + party_pizza_mini
 print(f" Total number of slices: {slices}")
 
